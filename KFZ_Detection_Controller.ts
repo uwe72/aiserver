@@ -12,7 +12,7 @@ interface Kennzeichen {
 const allSearchingKennzeichen = [];
 
 // WN-EX4000:
-let kennzeichen1: Kennzeichen = { id: "ULEX4000", varianten: ["ULEX4000", "UL EX", "ULOE", "BULOE", "EX4", "EX 4", "EX40", "LEX4O", "LEX400", "LOEX4OC", "LEX4OC", "LOEX4OC", "LOEX4O", "LOEXLO", "LOEXLO", "LEX40", "LOEXLOC", "LEXLO", "LEXLOC", "LOEX40", "ULoEX4OG0", "ULoEX4GGL", "ULoEX4GG"] };
+let kennzeichen1: Kennzeichen = { id: "ULAX3000", varianten: ["ULAX3000", "UL AX"] };
 allSearchingKennzeichen.push(kennzeichen1);
 
 // Datenpunkte anlegen pro Kennzeichen_
