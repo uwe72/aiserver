@@ -1,5 +1,14 @@
-// INSTALL AI-SERVER:
+// ===========================================================================================
+// PREPARATIONS:
+// ===========================================================================================
+
+// 1. INSTALL AI-SERVER:
 // https://www.codeproject.com/Articles/5322557/CodeProject-AI-Server-AI-the-easy-way
+
+// 2. Install NPM-Modul:
+// npm install jimp --save
+
+// 3. Add NPM Modul "jimp" to JavaScript-Instance
 
 // ===========================================================================================
 // USER CONFIG:
