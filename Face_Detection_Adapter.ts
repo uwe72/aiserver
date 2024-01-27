@@ -1,4 +1,16 @@
 // ===========================================================================================
+// PREPARATIONS:
+// ===========================================================================================
+
+// 1. INSTALL AI-SERVER:
+// https://www.codeproject.com/Articles/5322557/CodeProject-AI-Server-AI-the-easy-way
+
+// 2. Install NPM-Modul:
+// npm install jimp --save
+
+// 3. Add NPM Modul "jimp" to JavaScript-Instance
+
+// ===========================================================================================
 // USER CONFIG:
 // ===========================================================================================
 const serverURL = "http://192.168.178.124:32168/v1/vision/face/recognize"; // API-URL zum AI-Server
